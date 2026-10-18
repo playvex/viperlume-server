@@ -1,0 +1,10 @@
+{
+  "name": "viperlume-server",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Real-time multiplayer server for Viperlume Online mode by Playvex (zero dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED"
+}
